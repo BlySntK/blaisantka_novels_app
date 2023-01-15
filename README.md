@@ -1,2 +1,2 @@
-# blaisantka_novels_app
-App de relatos propios
+# bemyzentinel
+Chat for Android
